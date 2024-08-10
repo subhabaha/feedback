@@ -2,7 +2,7 @@ streamlit
 google.generativeai
 #os
 fpdf
-tempfile
+#tempfile
 
 
 
