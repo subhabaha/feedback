@@ -1,6 +1,8 @@
-google.generativeai
-os
 streamlit
+google.generativeai
+#os
 fpdf
 tempfile
+
+
 
